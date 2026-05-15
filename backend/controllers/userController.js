@@ -1,6 +1,5 @@
 const Task = require("../models/Task");
 const User = require("../models/User");
-const bcrypt = require("bcryptjs");
 
 //@desc get all users (admin only)
 //@route GET/api/users
